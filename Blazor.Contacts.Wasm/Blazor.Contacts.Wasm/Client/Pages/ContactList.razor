@@ -24,7 +24,7 @@
 else
 {
 
-    <RadzenGrid 
+    <RadzenDataGrid 
                 AllowFiltering="true"
                 AllowColumnResize="true"
                 FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive" 
@@ -34,36 +34,38 @@ else
                 AllowSorting="true"
                 Data="@contacts"
                 TItem="Contact"
-                ColumnWidth="200px">
+                ColumnWidth="200px"
+                FilterPopupRenderMode="PopupRenderMode.OnDemand">
 
                 <Columns>
-                    <RadzenGridColumn TItem="Contact" Property="FullName" Title="Name" />
-                    <RadzenGridColumn TItem="Contact" Property="Phone" Title="Phone" />
-                    <RadzenGridColumn TItem="Contact" Property="Address" Title="Address" />
-                    <RadzenGridColumn TItem="Contact" Title="Edit">
+                    <RadzenDataGridColumn TItem="Contact" Property="FullName" Title="Name" />
+                    <RadzenDataGridColumn TItem="Contact" Property="Phone" Title="Phone" />
+                    <RadzenDataGridColumn TItem="Contact" Property="Address" Title="Address" />
+                    <RadzenDataGridColumn TItem="Contact" Title="Edit">
                         <Template Context="data">
                             <RadzenLink Path="@($"/contactdetails/{data.Id}")" Text="Edit"></RadzenLink>
                         </Template>
-                    </RadzenGridColumn>
-                    <RadzenGridColumn TItem="Contact" Title="Delete">
+                    </RadzenDataGridColumn>
+                    <RadzenDataGridColumn TItem="Contact" Title="Delete">
                         <Template Context="data">
                             <RadzenLink Path="@($"/contactdelete/{data.Id}")" Text="Delete"></RadzenLink>
                         </Template>
-                    </RadzenGridColumn>       
+                    </RadzenDataGridColumn>       
                 </Columns>
-    </RadzenGrid>
+    </RadzenDataGrid>
 }
 
 
 @code {
-    IEnumerable<Contact> contacts;
+    IQueryable<Contact> contacts;
     public string Message { get; set; }
 
-    protected async override Task OnInitializedAsync()
+    protected override async Task OnInitializedAsync()
     {
         try
         {
-            contacts = await ContactService.GetAll();
+            var collection = await ContactService.GetAll();
+            contacts = collection.AsQueryable();
         }
         catch (Exception e)
         {

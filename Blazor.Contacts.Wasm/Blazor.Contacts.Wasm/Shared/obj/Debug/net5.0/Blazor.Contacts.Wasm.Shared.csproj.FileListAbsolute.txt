@@ -10,3 +10,15 @@ D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\ne
 D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\refint\Blazor.Contacts.Wasm.Shared.dll
 D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.pdb
 D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\ref\Blazor.Contacts.Wasm.Shared.dll
+D:\Proyectos\blazor-contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net5.0\Blazor.Contacts.Wasm.Shared.deps.json
+D:\Proyectos\blazor-contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net5.0\Blazor.Contacts.Wasm.Shared.dll
+D:\Proyectos\blazor-contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net5.0\Blazor.Contacts.Wasm.Shared.pdb
+D:\Proyectos\blazor-contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\blazor-contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.AssemblyInfoInputs.cache
+D:\Proyectos\blazor-contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.AssemblyInfo.cs
+D:\Proyectos\blazor-contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.csproj.CoreCompileInputs.cache
+D:\Proyectos\blazor-contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.sourcelink.json
+D:\Proyectos\blazor-contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.dll
+D:\Proyectos\blazor-contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\refint\Blazor.Contacts.Wasm.Shared.dll
+D:\Proyectos\blazor-contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.pdb
+D:\Proyectos\blazor-contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\ref\Blazor.Contacts.Wasm.Shared.dll

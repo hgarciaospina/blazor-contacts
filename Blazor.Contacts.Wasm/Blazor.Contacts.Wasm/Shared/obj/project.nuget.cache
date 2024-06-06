@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+JKZ1/xvqhQWQGF3AuNocY/dj87/Pxq89ZTsNgKHRWAJWzthadXd485uP1m8E1v7sydODuctj+wDWokrZbj9Q==",
+  "dgSpecHash": "CKqKtcfIIhQra6bvOllvTLa4O5tlAIcwnad1hRDBvRnzwWDE4JEsfgMzyf1/VYG5uHGGcOvjR1V1MoH8FYAckw==",
   "success": true,
-  "projectFilePath": "D:\\Blazor-Contacts\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Shared\\Blazor.Contacts.Wasm.Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Proyectos\\blazor-contacts\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Shared\\Blazor.Contacts.Wasm.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eovelasco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eovelasco\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eovelasco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

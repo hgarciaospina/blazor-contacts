@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lxuSqyxxKzHExtDPYtPqkCAVGCrPG39qedmuOmnQ9aWaw+zAYpZ/CaRs9Meyv9X4X1Gfi5sz16OqBdeAPQsfBw==",
+  "dgSpecHash": "wbHsng3KZ9dCm2JI2MCX0bXQRAFDIMURNFSY68iK67Rn9GHWlDR7jvdcv7hHnemk15Zmlp1udHrGNl1kWqvpXQ==",
   "success": true,
-  "projectFilePath": "D:\\Blazor-Contacts\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm.Repositories\\Blazor.Contacts.Wasm.Repositories.csproj",
+  "projectFilePath": "D:\\Proyectos\\blazor-contacts\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm.Repositories\\Blazor.Contacts.Wasm.Repositories.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\USUARIO\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+    "C:\\Users\\eovelasco\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\eovelasco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eovelasco\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eovelasco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
