@@ -96,6 +96,20 @@ using Services;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 13 "D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\_Imports.razor"
+using Radzen;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\_Imports.razor"
+using Radzen.Blazor;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class ContactList : global::Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -105,7 +119,7 @@ using Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 54 "D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\Pages\ContactList.razor"
+#line 58 "D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\Pages\ContactList.razor"
        
     IEnumerable<Contact> contacts;
     public string Message { get; set; }

@@ -118,3 +118,5 @@ D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Server\obj\Debug\ne
 D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Server\obj\Debug\net5.0\Blazor.Contacts.Wasm.Server.pdb
 D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Server\obj\Debug\net5.0\Blazor.Contacts.Wasm.Server.genruntimeconfig.cache
 D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Server\obj\Debug\net5.0\ref\Blazor.Contacts.Wasm.Server.dll
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Server\bin\Debug\net5.0\Radzen.Blazor.dll
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Server\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll

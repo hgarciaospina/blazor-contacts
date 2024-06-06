@@ -369,6 +369,7 @@
           "lib/net5.0/Dapper.dll": {}
         }
       },
+      "DartSassBuilder/1.0.0": {},
       "Microsoft.AspNetCore.Authorization/5.0.17": {
         "dependencies": {
           "Microsoft.AspNetCore.Metadata": "5.0.17",
@@ -845,6 +846,23 @@
           }
         }
       },
+      "Radzen.Blazor/4.32.4": {
+        "dependencies": {
+          "DartSassBuilder": "1.0.0",
+          "Microsoft.AspNetCore.Components": "5.0.17",
+          "Microsoft.AspNetCore.Components.Web": "5.0.17",
+          "System.Linq.Dynamic.Core": "1.3.7"
+        },
+        "runtime": {
+          "lib/net5.0/Radzen.Blazor.dll": {
+            "assemblyVersion": "4.32.4.0",
+            "fileVersion": "4.32.4.0"
+          }
+        },
+        "compile": {
+          "lib/net5.0/Radzen.Blazor.dll": {}
+        }
+      },
       "System.ClientModel/1.0.0": {
         "dependencies": {
           "System.Memory.Data": "1.0.2",
@@ -954,6 +972,17 @@
         },
         "compile": {
           "ref/netcoreapp2.0/System.IO.Pipelines.dll": {}
+        }
+      },
+      "System.Linq.Dynamic.Core/1.3.7": {
+        "runtime": {
+          "lib/net5.0/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.3.7.0",
+            "fileVersion": "1.3.7.0"
+          }
+        },
+        "compile": {
+          "lib/net5.0/System.Linq.Dynamic.Core.dll": {}
         }
       },
       "System.Memory/4.5.4": {},
@@ -1167,6 +1196,7 @@
         "dependencies": {
           "Blazor.Contacts.Wasm.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "5.0.17",
+          "Radzen.Blazor": "4.32.4",
           "System.Net.Http.Json": "5.0.0"
         },
         "runtime": {
@@ -2851,6 +2881,13 @@
       "path": "dapper/2.1.35",
       "hashPath": "dapper.2.1.35.nupkg.sha512"
     },
+    "DartSassBuilder/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bcM9YuWmNUuneEIp5rSFeHNQaZFqC0zKdK8JQvCFGzjX3pLyyQ0ReHPbawqOkTtfubQz4JPkzFzgJAo9Aixiew==",
+      "path": "dartsassbuilder/1.0.0",
+      "hashPath": "dartsassbuilder.1.0.0.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Authorization/5.0.17": {
       "type": "package",
       "serviceable": true,
@@ -3138,6 +3175,13 @@
       "path": "microsoft.win32.systemevents/6.0.0",
       "hashPath": "microsoft.win32.systemevents.6.0.0.nupkg.sha512"
     },
+    "Radzen.Blazor/4.32.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9xFUmAinQ6JBwKvrRftHUsa2Nns5oKA9/SUIGfuFUwnXV5XA7YeWz9fMX5X4Wl308A/EBCRHX3lTwrD8hTJfHw==",
+      "path": "radzen.blazor/4.32.4",
+      "hashPath": "radzen.blazor.4.32.4.nupkg.sha512"
+    },
     "System.ClientModel/1.0.0": {
       "type": "package",
       "serviceable": true,
@@ -3200,6 +3244,13 @@
       "sha512": "sha512-Iew+dfa6FFiyvWBdRmXApixRY1db+beyutpIck4SOSe0NLM8FD/7AD54MscqVLhvfSMLHO7KadjTRT7fqxOGTA==",
       "path": "system.io.pipelines/5.0.2",
       "hashPath": "system.io.pipelines.5.0.2.nupkg.sha512"
+    },
+    "System.Linq.Dynamic.Core/1.3.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7J9oS95JCcyOtnKCr0tYUOMAj67Ee3WKal6li20vEeuQFdD7C4XuAABysp3H5dx+wmHkXuUNoxW3+U+OEsx+JQ==",
+      "path": "system.linq.dynamic.core/1.3.7",
+      "hashPath": "system.linq.dynamic.core.1.3.7.nupkg.sha512"
     },
     "System.Memory/4.5.4": {
       "type": "package",

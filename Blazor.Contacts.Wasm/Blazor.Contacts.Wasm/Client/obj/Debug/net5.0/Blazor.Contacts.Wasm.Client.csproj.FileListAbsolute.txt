@@ -645,3 +645,9 @@ D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\obj\Debug\ne
 D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\obj\Debug\net5.0\Razor\Pages\ContactList.razor.g.cs
 D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ContactDelete.razor.g.cs
 D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\obj\Debug\net5.0\Razor\Pages\ContactDelete.razor.g.cs
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll.gz
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll.gz
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\obj\Debug\net5.0\build-gz\eR7X1S0e.gz
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\obj\Debug\net5.0\build-gz\6+ezCbpD.gz

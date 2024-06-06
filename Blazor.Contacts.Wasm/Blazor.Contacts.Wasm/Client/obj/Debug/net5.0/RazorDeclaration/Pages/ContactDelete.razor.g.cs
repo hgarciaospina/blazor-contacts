@@ -96,6 +96,20 @@ using Services;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 13 "D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\_Imports.razor"
+using Radzen;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\_Imports.razor"
+using Radzen.Blazor;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Components.RouteAttribute("/contactdelete/{id:int}")]
     public partial class ContactDelete : global::Microsoft.AspNetCore.Components.ComponentBase
     {

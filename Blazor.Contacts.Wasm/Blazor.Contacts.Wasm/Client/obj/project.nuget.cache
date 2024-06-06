@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rWYJheGE8sBo06FVf0UgSaqIhdgazZbBx7hSv4rLfACXrCw88fUnZzLHCIuSUyt5aP/tet4v3jV5iJ8p4Hjdrg==",
+  "dgSpecHash": "ppakf0CLPxcDpg5GhRuMljbtF72VwV1kuQ2OAEKGL8O4ap//wCwpqPXJMDwCP4teirJQG8+MC9aUSDqAceDqlg==",
   "success": true,
   "projectFilePath": "D:\\Blazor-Contacts\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Client\\Blazor.Contacts.Wasm.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\dartsassbuilder\\1.0.0\\dartsassbuilder.1.0.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.17\\microsoft.aspnetcore.authorization.5.0.17.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.17\\microsoft.aspnetcore.components.5.0.17.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.17\\microsoft.aspnetcore.components.analyzers.5.0.17.nupkg.sha512",
@@ -28,7 +29,9 @@
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.jsinterop\\5.0.17\\microsoft.jsinterop.5.0.17.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.17\\microsoft.jsinterop.webassembly.5.0.17.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\radzen.blazor\\4.32.4\\radzen.blazor.4.32.4.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.linq.dynamic.core\\1.3.7\\system.linq.dynamic.core.1.3.7.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.17\\microsoft.netcore.app.runtime.browser-wasm.5.0.17.nupkg.sha512"
   ],
