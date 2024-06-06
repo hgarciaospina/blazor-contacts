@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Blazor.Contacts.Wasm.Client.props" />
+</Project>

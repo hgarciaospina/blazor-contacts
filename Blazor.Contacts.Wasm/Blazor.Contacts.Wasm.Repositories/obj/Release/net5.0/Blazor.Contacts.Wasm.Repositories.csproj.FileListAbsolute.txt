@@ -1,0 +1,15 @@
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\bin\Release\net5.0\Blazor.Contacts.Wasm.Repositories.deps.json
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\bin\Release\net5.0\Blazor.Contacts.Wasm.Repositories.dll
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\bin\Release\net5.0\Blazor.Contacts.Wasm.Repositories.pdb
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\bin\Release\net5.0\Blazor.Contacts.Wasm.Shared.dll
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\bin\Release\net5.0\Blazor.Contacts.Wasm.Shared.pdb
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\obj\Release\net5.0\Blazor.Contacts.Wasm.Repositories.csproj.AssemblyReference.cache
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\obj\Release\net5.0\Blazor.Contacts.Wasm.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\obj\Release\net5.0\Blazor.Contacts.Wasm.Repositories.AssemblyInfoInputs.cache
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\obj\Release\net5.0\Blazor.Contacts.Wasm.Repositories.AssemblyInfo.cs
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\obj\Release\net5.0\Blazor.Contacts.Wasm.Repositories.csproj.CoreCompileInputs.cache
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\obj\Release\net5.0\Blazor.Contacts.Wasm.Repositories.csproj.CopyComplete
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\obj\Release\net5.0\Blazor.Contacts.Wasm.Repositories.dll
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\obj\Release\net5.0\refint\Blazor.Contacts.Wasm.Repositories.dll
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\obj\Release\net5.0\Blazor.Contacts.Wasm.Repositories.pdb
+D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repositories\obj\Release\net5.0\ref\Blazor.Contacts.Wasm.Repositories.dll
