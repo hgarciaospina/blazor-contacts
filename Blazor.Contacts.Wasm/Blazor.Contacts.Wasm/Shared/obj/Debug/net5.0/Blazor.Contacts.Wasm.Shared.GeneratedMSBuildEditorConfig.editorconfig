@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = Blazor.Contacts.Wasm.Shared
-build_property.ProjectDir = D:\Blazor-Contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\
+build_property.ProjectDir = D:\Proyectos\blazor-contacts\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
