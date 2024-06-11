@@ -4,64 +4,59 @@
 @inject IContactService ContactService
 @inject NavigationManager NavigationManager
 
-@if(contact == null )
+@if (contact == null)
 {
     <p><em>Loading....</em></p>
 }
 else
 {
-    <EditForm Model="contact" OnValidSubmit="Save">
+    <RadzenTemplateForm Data ="@contact">
         <div class="card">
-            <h5 class="card-header">Contact Details</h5>
             <div class="card-body">
                 <div class="container">
+                    <RadzenFieldset Text="Contact Details">
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label for="">First Name</label>
+                                <RadzenTextBox class="form-control" @bind-Value="@contact.FirstName"></RadzenTextBox>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="">Last Name</label>
+                                <RadzenTextBox class="form-control" @bind-Value="@contact.LastName"></RadzenTextBox>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12 mb-3">
+                                <label for="">Phone</label>
+                                <RadzenTextBox class="form-control" @bind-Value="@contact.Phone"></RadzenTextBox>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12 mb-3">
+                                <label for="">Address</label>
+                                <RadzenTextArea class="form-control" @bind-Value="@contact.Address"></RadzenTextArea>
+                            </div>
+                        </div>
 
-                    <div class="row">
-                        <div class="col-md-6 mb-3">
-                            <label for="">First Name</label>
-                            <InputText class="form-control" @bind-Value="@contact.FirstName"></InputText>
+                        <div class="row">
+                            <div class="col-md-4 mb-3">
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <RadzenButton Text="Save" ButtonStyle="ButtonStyle.Primary" Click="@(args => Save())"/>
+                                <RadzenButton Text="Cancel" ButtonStyle="ButtonStyle.Secondary" Click="@(args => NavigateHome())" />
+                            </div>
+                            <div class="col-md-4 mb-3">
+                            </div>
                         </div>
-                        <div class="col-md-6 mb-3">
-                            <label for="">Last Name</label>
-                            <InputText class="form-control" @bind-Value="@contact.LastName"></InputText>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12 mb-3">
-                            <label for="">Phone</label>
-                            <InputText class="form-control" @bind-Value="@contact.Phone"></InputText>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12 mb-3">
-                            <label for="">Address</label>
-                            <InputTextArea class="form-control" @bind-Value="@contact.Address"></InputTextArea>
-                        </div>
-                    </div>
 
-                    <div class="row">
-                        <div class="col-md-4 mb-3">
-                           
-                        </div>
-                        <div class="col-md-4 mb-3">
-                            <input type="submit" class="btn btn-success" value="Save" />
-                            <input type="button" class="btn btn-secondary" value="Cancel" @onclick="NavigateHome" />
-                        </div>
-                        <div class="col-md-4 mb-3">
-                           
-                        </div>
-                    </div>
+                    </RadzenFieldset>
 
                 </div>
             </div>
         </div>
-
-    </EditForm>
-}
-
-
-
-@code {
+    </RadzenTemplateForm>
+ 
+    @code {
     public Contact contact;
 
     [Parameter]
@@ -85,4 +80,5 @@ else
     {
         NavigationManager.NavigateTo("/");
     }
+ }
 }
