@@ -6,14 +6,10 @@ using System.Threading.Tasks;
 
 namespace Blazor.Contacts.Wasm.Client.Services
 {
-    public class ContactService : IContactService
+    public class ContactService(HttpClient httpClient) : IContactService
     {
-        private readonly HttpClient _httpClient;
+        private readonly HttpClient _httpClient = httpClient;
 
-        public ContactService(HttpClient httpClient) 
-        {
-            _httpClient = httpClient;
-        }
         public async Task DeleteContact(int id)
         {
             await _httpClient.DeleteAsync($"api/contacts/{id}");
